@@ -189,7 +189,6 @@ function App() {
               </Upload>
             </Form.Item>
           </Form>
-        <Footer style={{ textAlign: 'center' }}>AntD 30 Components Demo ©2026</Footer>
         <menuAnt />
     </>
   );
